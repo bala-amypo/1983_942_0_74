@@ -1,7 +1,7 @@
 package com.example.demo.entity;
 
 import jakarta.persistence.Entity;
-import jakarta.persistance.GeneratedValue;\
+import jakarta.persistance.GeneratedValue;
 import jakarta.persistance.GenerationType;
 import jakarta.persistance.Id;
 @Entity
